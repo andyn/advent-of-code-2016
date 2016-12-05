@@ -1,0 +1,6 @@
+[package]
+name = "aoc16-2a"
+version = "0.1.0"
+authors = ["Antti Nilakari <antti.nilakari@iki.fi>"]
+
+[dependencies]
